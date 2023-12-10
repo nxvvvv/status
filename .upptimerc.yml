@@ -11,14 +11,16 @@ sites:
 status-website:
   cname: status.navaneethkm.me
   name: Status
-  themeUrl: https://github.com/nxvvvv/status/raw/master/assets/black.css
+  themeUrl: /assets/black.css
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/nxvvvv
+    - title: Website
+      href: https://navaneethkm.me
   introTitle: "nxvvvv's Status Page"
-  introMessage: This is my Status Page which shows all the online webservices made by me, powered by Github Actions 🔥
+  introMessage: This is my Status Page which shows all the online web services made by me, powered by GitHub Actions 🔥
 commitMessages:
   commitAuthorName: "nxvvvv"
   commitAuthorEmail: "sudo@member.fsf.org"
