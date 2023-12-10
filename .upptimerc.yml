@@ -11,7 +11,7 @@ sites:
 status-website:
   cname: status.navaneethkm.me
   name: Status
-  themeUrl: /assets/black.css
+  theme: night
   navbar:
     - title: Status
       href: /
