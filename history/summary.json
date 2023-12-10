@@ -4,19 +4,19 @@
     "url": "https://navaneethkm.me",
     "icon": "https://icons.duckduckgo.com/ip3/navaneethkm.me.ico",
     "slug": "personal-website",
-    "status": "down",
-    "uptime": "88.63%",
-    "uptimeDay": "88.63%",
-    "uptimeWeek": "88.63%",
-    "uptimeMonth": "88.63%",
-    "uptimeYear": "88.63%",
-    "time": 113,
-    "timeDay": 113,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "status": "up",
+    "uptime": "62.00%",
+    "uptimeDay": "62.00%",
+    "uptimeWeek": "62.00%",
+    "uptimeMonth": "62.00%",
+    "uptimeYear": "62.00%",
+    "time": 97,
+    "timeDay": 97,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 97,
     "dailyMinutesDown": {
-      "2023-12-10": 13
+      "2023-12-10": 61
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 252,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "time": 258,
+    "timeDay": 258,
+    "timeWeek": 258,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.navaneethkm.me.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "88.63%",
-    "uptimeDay": "88.63%",
-    "uptimeWeek": "88.63%",
-    "uptimeMonth": "88.63%",
-    "uptimeYear": "88.63%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "uptime": "62.00%",
+    "uptimeDay": "62.00%",
+    "uptimeWeek": "62.00%",
+    "uptimeMonth": "62.00%",
+    "uptimeYear": "62.00%",
+    "time": 196,
+    "timeDay": 196,
+    "timeWeek": 196,
+    "timeMonth": 196,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-12-10": 13
+      "2023-12-10": 61
     }
   }
 ]
