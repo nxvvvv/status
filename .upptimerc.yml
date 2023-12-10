@@ -9,38 +9,13 @@ sites:
   - name: Status #heh :D
     url: https://status.navaneethkm.me
 status-website:
-  customHeadHtml: "<!-- Custom HTML to add in the <head> tag -->"
-  customBodyHtml: " |
-    <!-- Custom HTML to add at the beginning of <body> -->
-    <script>
-      // Wait for the DOM to be ready
-      document.addEventListener("DOMContentLoaded", function() {
-        // Find the footer element by class name
-        var footer = document.querySelector(".svelte-jbr799");
-
-        // Check if the footer element exists before making changes
-        if (footer) {
-          // Create a new paragraph element
-          var newParagraph = document.createElement("p");
-
-          // Set the inner HTML of the new paragraph element
-          newParagraph.innerHTML = "Custom content goes here. ";
-
-          // Create a link element
-          var link = document.createElement("a");
-
-          // Set the attributes of the link (href and text content)
-          link.href = "https://example.com";
-          link.textContent = "Custom Link";
-
-          // Append the link to the new paragraph
-          newParagraph.appendChild(link);
-
-          // Append the new paragraph to the footer
-          footer.appendChild(newParagraph);
-        }
-      });
-    </script>"
+  js: |
+    document.addEventListener("DOMContentLoaded", function() {
+      var footerElement = document.querySelector(".svelte-jbr799");
+      if (footerElement) {
+        footerElement.remove();
+      }
+    });
   cname: status.navaneethkm.me
   name: Status
   theme: night
