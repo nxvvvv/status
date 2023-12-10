@@ -12,6 +12,7 @@ status-website:
   cname: status.navaneethkm.me
   name: Status
   theme: night
+  faviconSvg: https://github.com/nxvvvv/status/raw/master/assets/upptime-icon.svg
   navbar:
     - title: Status
       href: /
