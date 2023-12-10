@@ -9,7 +9,6 @@ sites:
   - name: Status #heh :D
     url: https://status.navaneethkm.me
 status-website:
-  status-website:
   customHeadHtml: "<!-- Custom HTML to add in the <head> tag -->"
   customBodyHtml: " |
     <!-- Custom HTML to add at the beginning of <body> -->
