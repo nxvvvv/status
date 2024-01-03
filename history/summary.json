@@ -24,19 +24,19 @@
     "url": "https://cooker.navaneethkm.me",
     "icon": "https://icons.duckduckgo.com/ip3/cooker.navaneethkm.me.ico",
     "slug": "cooker-os",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 1644,
-    "timeWeek": 507,
-    "timeMonth": 255,
-    "timeYear": 255,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 250,
+    "timeDay": 1129,
+    "timeWeek": 462,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 7
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.navaneethkm.me.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.80%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 140,
     "timeDay": 75,
     "timeWeek": 168,
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2024-01-03": 0,
+      "2024-01-03": 7,
       "2023-12-10": 61
     }
   }
