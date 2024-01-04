@@ -8,6 +8,9 @@ sites:
     url: https://cooker.navaneethkm.me
   - name: Status #heh :D
     url: https://status.navaneethkm.me
+  - name: CVE Monitor
+    url: https://cve.navaneethkm.me
+
 status-website:
   js: |
     document.addEventListener("DOMContentLoaded", function() {
