@@ -24,18 +24,20 @@
     "url": "https://cooker.navaneethkm.me",
     "icon": "https://icons.duckduckgo.com/ip3/cooker.navaneethkm.me.ico",
     "slug": "cooker-os",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 55,
-    "timeWeek": 214,
-    "timeMonth": 260,
-    "timeYear": 242,
-    "dailyMinutesDown": {}
+    "time": 241,
+    "timeDay": 144,
+    "timeWeek": 216,
+    "timeMonth": 259,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "Status",
@@ -54,6 +56,7 @@
     "timeMonth": 142,
     "timeYear": 148,
     "dailyMinutesDown": {
+      "2024-01-17": 0,
       "2023-12-10": 61
     }
   },
