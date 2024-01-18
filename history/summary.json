@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 165,
-    "timeDay": 120,
-    "timeWeek": 168,
-    "timeMonth": 165,
-    "timeYear": 165,
+    "time": 166,
+    "timeDay": 215,
+    "timeWeek": 174,
+    "timeMonth": 170,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2023-12-10": 61
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cooker.navaneethkm.me.ico",
     "slug": "cooker-os",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 241,
-    "timeDay": 170,
-    "timeWeek": 217,
-    "timeMonth": 258,
-    "timeYear": 241,
-    "dailyMinutesDown": {
-      "2024-01-17": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 238,
+    "timeDay": 189,
+    "timeWeek": 207,
+    "timeMonth": 257,
+    "timeYear": 238,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Status",
@@ -45,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.navaneethkm.me.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.87%",
-    "time": 148,
-    "timeDay": 246,
-    "timeWeek": 163,
-    "timeMonth": 142,
-    "timeYear": 148,
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.89%",
+    "time": 151,
+    "timeDay": 244,
+    "timeWeek": 173,
+    "timeMonth": 147,
+    "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-01-17": 9,
       "2023-12-10": 61
     }
   },
@@ -71,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 116,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 154,
+    "timeDay": 233,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   }
 ]
